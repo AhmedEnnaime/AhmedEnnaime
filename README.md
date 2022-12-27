@@ -10,7 +10,7 @@ I'm a full stack developer with high capacity of learning new technologies. I'm 
 Java, Javascript, Typescript, PHP, Laravel, Flutter, ReactJs, NodeJs, Express, Html, CSS, Bootstrap...
 
 
-👩‍💻 I'm currently working on a hotel reservation system
+👨🏽‍💻 I'm currently working on a hotel reservation system
 
 🧠 I'm currently learning Java and taking a deep dive into reactJs with typescript
 
