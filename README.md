@@ -7,7 +7,7 @@ I'm a full stack developer with high capacity of learning new technologies. I'm 
 
 
 ## 🛠 Skills
-Java, Javascript, Typescript, PHP, Laravel, Flutter, ReactJs, NodeJs, Express, Html, CSS, Bootstrap...
+[![My Skills](https://skills.thijs.gg/icons?i=java,ts,js,php,laravel,mysql,postgresql,react,flutter,nodejs,expressjs,mongodb,bootstrap,html,css)](https://skills.thijs.gg)
 
 
 👨🏽‍💻 I'm currently working on a hotel reservation system
