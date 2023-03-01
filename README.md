@@ -7,7 +7,7 @@ I'm a full stack developer with high capacity of learning new technologies. I'm 
 
 
 ## 🛠 Skills
-[![My Skills](https://skills.thijs.gg/icons?i=java,ts,js,php,laravel,mysql,postgresql,react,vue,flutter,nodejs,expressjs,mongodb,bootstrap,html,css,tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,ts,js,php,laravel,mysql,postgresql,react,vue,flutter,docker,nodejs,expressjs,mongodb,bootstrap,html,css,tailwind)](https://skills.thijs.gg)
 
 
 👨🏽‍💻 I'm currently working on an ERP application
