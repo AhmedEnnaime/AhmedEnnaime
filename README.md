@@ -31,14 +31,24 @@ services:
             - React
             - Vue
             - Laravel
+            - NodeJs
+            - ExpressJs
             - TailwindCss
+            - Bootstrap
               
         mobile frameworks:
             - Flutter
+        
+        databases:
+            - PostgreSql
+            - Mysql
+            - MongoDb
               
         tools:
             - Docker
             - Kubernetes
+            - Git
+            - Github
             
         architectures:
             - Microservices
