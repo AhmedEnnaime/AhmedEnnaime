@@ -26,18 +26,23 @@ services:
             - Php
             - Dart
             - Swift
+            
         web frameworks:
-              - React
-              - Vue
-              - Laravel
-              - TailwindCss
+            - React
+            - Vue
+            - Laravel
+            - TailwindCss
               
         mobile frameworks:
-              - Flutter
+            - Flutter
               
         tools:
-              - Docker
-              - Kubernetes
+            - Docker
+            - Kubernetes
+            
+        architectures:
+            - Microservices
+            - MVC
     
     administration:
         systems:
