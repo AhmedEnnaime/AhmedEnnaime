@@ -20,6 +20,7 @@ services:
     programming:
         programming languages:
             - Java
+            - Golang
             - Typescript
             - Javascript
             - Python
@@ -28,6 +29,7 @@ services:
             - Swift
             
         web frameworks:
+            - Springboot
             - React
             - Vue
             - Laravel
@@ -49,10 +51,14 @@ services:
             - Kubernetes
             - Git
             - Github
+            - Gitlab
             
         architectures:
             - Microservices
             - MVC
+            - Rest Api
+            - gRpc
+            - GraphQl
     
     administration:
         systems:
