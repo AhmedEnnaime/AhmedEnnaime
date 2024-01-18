@@ -1,5 +1,5 @@
 ```yaml
-version: "16.09.2023"
+version: "18.01.2024"
 
 full_name: Ahmed Ennaime
 
@@ -23,13 +23,12 @@ services:
             - Golang
             - Typescript
             - Javascript
-            - Python
             - Php
             - Dart
-            - Swift
             
         web frameworks:
             - Springboot
+            - Angular
             - React
             - Vue
             - Laravel
